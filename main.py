@@ -52,6 +52,6 @@ def extract_num(file_image):
         exit()
     cv2.destroyAllWindows()
 
-
+//change on main
 
 extract_num('plate3.webp')
